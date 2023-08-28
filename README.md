@@ -1,6 +1,6 @@
 # Ball-Beam-Balance
 
-Here's a simplified overview of a ball and beam balance system:
+Here's simplified overview of the ball and beam balance system:
 
 System Components:
 
