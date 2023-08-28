@@ -7,7 +7,8 @@ System Components:
 Beam: A horizontal beam where the ball can roll.
 Ball: A small ball placed on the beam.
 Actuators: Devices that can manipulate the beam's angle, affecting the ball's position (Servo Gear).
-Sensors: Devices that measure the ball's position on the beam (Ultrasonic Distance Sensor) .
+Sensors: Devices that measure the ball's position on the beam (Ultrasonic Distance Sensor) .  
+
 Control Objective:
 The objective is to control the position of the ball on the beam to maintain it at a desired location. This is achieved by adjusting the angle of the beam using feedback control.
 
