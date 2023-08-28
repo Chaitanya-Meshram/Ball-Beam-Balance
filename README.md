@@ -4,7 +4,7 @@ Here's simplified overview of the ball and beam balance system:
 
 System Components:
 
-Beam: A horizontal beam where the ball can roll.
+Beam: A horizontal beam where the ball can roll.  
 Ball: A small ball placed on the beam.
 Actuators: Devices that can manipulate the beam's angle, affecting the ball's position (Servo Gear).
 Sensors: Devices that measure the ball's position on the beam (Ultrasonic Distance Sensor) .  
