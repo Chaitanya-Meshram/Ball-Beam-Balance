@@ -28,3 +28,5 @@ Stability: Ensuring that the ball remains at the desired position without oscill
 Nonlinearities: The ball and beam system exhibits nonlinear behavior due to factors like friction and inertia.
 Sensor Noise: Real-world sensors can have noise, affecting the accuracy of position measurement. 
 Actuator Limitations: Actuators may have constraints on their range and speed.
+
+Technology Used: Arduino
